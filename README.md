@@ -1,5 +1,4 @@
-# 📊 Data Analytics Portfolio | Dipanshi Dhiman 👋
-
+# Hey there! I'm Dipanshi Dhiman.
 ### Data Analyst | Business Intelligence | SQL • Python • Dashboards • Data Storytelling
 
 > *Transforming complex, large-scale datasets into clear, executive-ready insights that drive measurable business decisions.*
