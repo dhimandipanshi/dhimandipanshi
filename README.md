@@ -48,29 +48,12 @@ WHERE username = 'dhimandipanshi'
 
 ## 🚀 Featured Projects
 
-### 🔁 [Onboarding Funnel Analysis](https://github.com/dhimandipanshi/Onboarding_Funnel_Analysis)
-> **Domain:** Fintech / SaaS | **Tools:** SQL, Python, Tableau
-* Investigated **12,000+ users** across a 6-stage onboarding funnel with **1M+ event records**.
-* Pinpointed **post-KYC** as the critical drop-off stage (~3,000 users lost at a single friction point).
-* Reframed problem from *"low signups"* to *"broken activation flow"* to redirect resources effectively.
-* Built Tableau dashboard tracking **10+ KPIs**, eliminating **40% of manual reporting** (~15 hrs/week).
-
----
-
-### 🚨 [Cyber Fraud Analysis](https://github.com/dhimandipanshi/CyberFraud_Analysis)
-> **Domain:** Cybersecurity / Public Sector | **Tools:** Power BI, Excel (Power Query)
-* Analyzed **295,000+ Canadian fraud records** to surface national and provincial risk trends.
-* Engineered scalable **ETL pipelines across 20+ fields**, improving data accuracy by **95%**.
-* Architected Power BI dashboards visualizing **$637M+ in reported losses** to highlight top fraud typologies and vulnerable demographics.
-
----
-
-### 👥 [Retail Customer & Revenue Analysis](https://github.com/dhimandipanshi/Retail_Customer_Revenue_Analysis)
-> **Domain:** Retail / E-Commerce | **Tools:** SQL, Python, Power BI
-* Queried and modeled **1,000+ transactions** to segment customers by spending behavior.
-* Resolved **480+ missing values** and normalized schemas for clean, reliable BI reporting.
-* Deployed executive Power BI dashboard with automated refresh and KPI tracking, cutting analysis time by **40%**.
-
+| Project | Tech Stack | Key Highlights | Link |
+| :--- | :--- | :--- | :--- |
+| **Loan Portfolio & Credit Risk Analysis** | SQL, Python, Power BI | Analyzed credit risk, default trends, and high-risk segments to optimize loan approval strategies. | [Repository](https://github.com/dhimandipanshi/Loan_Portfolio_Analysis) |
+| **Onboarding Funnel Analysis** | SQL, Python, Tableau | Investigated 12k+ users across a 6-stage funnel, pinpointing post-KYC drop-off to optimize user activation. | [Repository](https://github.com/dhimandipanshi/Onboarding_Funnel_Analysis) |
+| **Cyber Fraud Analysis** | Power BI, Excel | Modeled 295k+ Canadian fraud records ($637M+ losses) to highlight top fraud typologies and risk trends. | [Repository](https://github.com/dhimandipanshi/CyberFraud_Analysis) |
+| **Retail Customer & Revenue Analysis** | SQL, Python, Power BI | Segmented customers across 1,000+ transactions and built executive KPI dashboards with automated refresh. | [Repository](https://github.com/dhimandipanshi/Retail_Customer_Revenue_Analysis) |
 ---
 
 ## 📈 Core Strengths
