@@ -38,7 +38,7 @@ WHERE username = 'dhimandipanshi'
 <p align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="40" />&nbsp;&nbsp;
+  <img src="[https://cdn.simpleicons.org/tableau/E97627](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3tGEAPmpajDU8t99vphMZaGxoY7oysZyPQ5JJck_cA&s=10)" alt="PowerBI" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="BigQuery" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" />&nbsp;&nbsp;
