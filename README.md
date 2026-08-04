@@ -50,9 +50,9 @@ WHERE username = 'dhimandipanshi'
 
 | Project | Tech Stack | Key Highlights | Link |
 | :--- | :--- | :--- | :--- |
-| **Loan Portfolio & Credit Risk Analysis** | SQL, Python, Power BI | Analyzed credit risk, default trends, and high-risk segments to optimize loan approval strategies. | [Repository](https://github.com/dhimandipanshi/Loan_Portfolio_Analysis) |
+| **Loan Portfolio & Credit Risk Analysis** |Python(Pandas, Matplotlib)| Analyzed credit risk, default trends, and high-risk segments to optimize loan approval strategies. | [Repository](https://github.com/dhimandipanshi/Loan_Default_Risk_Analysis) |
 | **Onboarding Funnel Analysis** | SQL, Python, Tableau | Investigated 12k+ users across a 6-stage funnel, pinpointing post-KYC drop-off to optimize user activation. | [Repository](https://github.com/dhimandipanshi/Onboarding_Funnel_Analysis) |
-| **Cyber Fraud Analysis** | Power BI, Excel | Modeled 295k+ Canadian fraud records ($637M+ losses) to highlight top fraud typologies and risk trends. | [Repository](https://github.com/dhimandipanshi/CyberFraud_Analysis) |
+| **Cyber Fraud Analysis** | Power BI, Excel(PowerQuery,DAX) | Modeled 295k+ Canadian fraud records ($637M+ losses) to highlight top fraud typologies and risk trends. | [Repository](https://github.com/dhimandipanshi/CyberFraud_Analysis) |
 | **Retail Customer & Revenue Analysis** | SQL, Python, Power BI | Segmented customers across 1,000+ transactions and built executive KPI dashboards with automated refresh. | [Repository](https://github.com/dhimandipanshi/Retail_Customer_Revenue_Analysis) |
 ---
 
