@@ -1,5 +1,5 @@
 # Hey there! I'm Dipanshi Dhiman.
-### Data Analyst | Business Intelligence | SQL • Python • Dashboards • Data Storytelling
+### Data Analyst | Business Intelligence Analyst | SQL · Python · Power BI · Databricks · Azure · Data Modelling · Data Warehousing
 
 > *Transforming complex, large-scale datasets into clear, executive-ready insights that drive measurable business decisions.*
 
@@ -23,10 +23,10 @@ WHERE username = 'dhimandipanshi'
 | Column Name | Value |
 | :--- | :--- |
 | **name** | Dipanshi Dhiman |
-| **role** | Data Analyst & BI Specialist |
+| **role** | Data Analyst & Business Intelligence Analyst |
 | **location** | Toronto, ON, Canada |
-| **primary_skills** | `SQL`, `Python`, `Excel`, `ETL/ELT`, `Data Modeling`, `A/B Testing`, `Cohort & Funnel Analysis` |
-| **bi_tools** | `Power BI (DAX)`, `Tableau`|
+| **primary_skills** | `SQL`, `Python`, `Excel`, `ETL/ELT`, `Data Modeling`, `Data Modelling`, `Cohort & Funnel Analysis` |
+| **bi_tools** | `Power BI `, `Tableau`|
 | **databases_cloud** | `MySQL`, `Databricks`, `Microsoft Azure` |
 
 ---
@@ -48,6 +48,7 @@ WHERE username = 'dhimandipanshi'
 
 | Project | Tech Stack | Key Highlights | Link |
 | :--- | :--- | :--- | :--- |
+| **AML Risk Prediction** |Databricks, SQL, Python, Dimensional modeling, and Logistic Regression|An end-to-end Anti-Money Laundering (AML) Risk Prediction project designed to identify and classify potentially high-risk financial transactions| [Repository](https://github.com/dhimandipanshi/AML-risk-prediction) |
 | **Loan Portfolio & Credit Risk Analysis** |Python(Pandas, Matplotlib)| Analyzed credit risk, default trends, and high-risk segments to optimize loan approval strategies. | [Repository](https://github.com/dhimandipanshi/Loan_Default_Risk_Analysis) |
 | **Onboarding Funnel Analysis** | SQL, Python, Tableau | Investigated 12k+ users across a 6-stage funnel, pinpointing post-KYC drop-off to optimize user activation. | [Repository](https://github.com/dhimandipanshi/Onboarding_Funnel_Analysis) |
 | **Cyber Fraud Analysis** | Power BI, Excel(PowerQuery,DAX) | Modeled 295k+ Canadian fraud records ($637M+ losses) to highlight top fraud typologies and risk trends. | [Repository](https://github.com/dhimandipanshi/CyberFraud_Analysis) |
@@ -56,10 +57,12 @@ WHERE username = 'dhimandipanshi'
 
 ## 📈 Core Strengths
 
-* 📖 **Data Storytelling:** Translating technical findings into actionable business narratives.
 * 🔍 **Data Quality:** Building scalable ETL/ELT pipelines with **95%+ data accuracy**.
 * 📐 **KPI Design:** Framing and tracking metrics aligned with core business objectives.
 * ⚡ **Dashboard Development:** Building self-serve analytics tools that accelerate decision-making.
+* ⚙️ **Workflow Automation:** Designing and automating business processes and ETL workflows using **Power Automate**.
+* 🗄️ **Data Modeling & Warehousing:** Designing robust dimensional models (star/snowflake schemas), ETL pipelines, and scalable cloud data warehouses.
+* 📖 **Data Storytelling:** Translating technical findings into actionable business narratives.
 
 ---
 
